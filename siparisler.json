@@ -4,7 +4,7 @@
        "id":1,
        "tutar":50,
        "siparis_sayisi":2,
-       "urun adi": "Kazak",
+       "urun_adi": "Kazak",
        "urun_resim": "https://www.mademoi.com/1397/yumos-tirtikli-kazak.jpg" 
        },
        {
@@ -18,14 +18,14 @@
        "id":3,
        "tutar":200,
        "siparis_sayisi":1,
-       "urun adi": "Saat",
+       "urun_adi": "Saat",
        "urun_resim": "http://blog.saatvesaat.com.tr/wp-content/uploads/2017/09/saat-hediye-1170x780.jpg" 
        },
 	          {
        "id":4,
        "tutar":400,
        "siparis_sayisi":1,
-       "urun adi": "Deri Ceket",
+       "urun_adi": "Deri Ceket",
        "urun_resim" "https://img.oxxo.com.tr/ContentImages/Product/16y/16YOX-ELMOTFER16Y/fermuarli-cep-detayli-deri-gorunumlu-ceket_black-siyah_1_buyuk.jpg?width=422&height=633" 
        }
    ]
